@@ -17,7 +17,7 @@ Deploy **Annie Music Bot** on Heroku easily:
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/moonshining1/Annie-Music && cd Annie-Music
+   git clone https://github.com/yourtoofan/MOMMYMUSIC && cd MOMMYMUSIC
    ```
 
 2. **Run the setup**
